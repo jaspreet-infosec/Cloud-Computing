@@ -1,6 +1,4 @@
 
----
-
 # 🖥️ **Module 2: Virtualization and Cloud Infrastructure**
 
 ---
